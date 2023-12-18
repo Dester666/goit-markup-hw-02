@@ -14,16 +14,17 @@
     background-color:#FFFFFF;
 }
 .logo {
-    color: #2E2F42;
+    color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
-    letter-spacing: 0.54px; 
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
 }
 
 .logo-raleway {
-color:#4D5AE5;
+color:#2e2f42 ;
 font-family: Raleway;
 font-size: 18px;
 font-weight: 700;
@@ -40,6 +41,15 @@ line-height: 1.5;
 letter-spacing: 0.32px; 
 }
 
+.page-list-link:hover, 
+.page-list-link:focus {
+color: #404bbf;
+}
+
+.address {
+font-style: normal;
+}
+
 .address-link {
 color: #434455; 
 font-family: Roboto;
@@ -48,6 +58,11 @@ font-style: normal;
 font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.32px; 
+}
+
+.address-link:hover,
+.address-link:focus {
+ color: #404bbf;
 }
 
 .section-header {
