@@ -94,7 +94,7 @@ letter-spacing: 0.64px;
     cursor: pointer;
 }
 
-.section1-list-header {
+.section-one-list-header {
     color:#2E2F42;
 font-size: 20px;
 font-weight: 500;
@@ -102,7 +102,7 @@ line-height: 1.2;
 letter-spacing: 0.4px; 
 }
 
-.section1-list-paragraph {
+.section-one-list-paragraph {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
@@ -110,7 +110,7 @@ letter-spacing: 0.4px;
     letter-spacing: 0.32px; 
 }
 
-.section1-header {
+.section-one-header {
     color: #2E2F42;
 text-align: center;
 font-size: 36px;
@@ -120,7 +120,7 @@ letter-spacing: 0.72px;
 text-transform: capitalize; 
 }
 
-.section1-menu-header {
+.section-one-menu-header {
     color: #2E2F42;
 font-size: 20px;
 font-weight: 500;
@@ -128,7 +128,7 @@ line-height: 1.2;
 letter-spacing: 0.4px; 
 }
 
-.section1-menu-paragraph {
+.section-one-menu-paragraph {
     color: #434455;
 font-size: 16px;
 font-weight: 400;
