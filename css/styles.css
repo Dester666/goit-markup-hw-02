@@ -1,0 +1,21 @@
+.html,
+.header {
+    color: #2E2F42;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+}
+
+.body{
+    font-family: "Roboto", sans-serif ;
+}
+.logo {
+    color: #2E2F42;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16; /* 116.667% */
+    letter-spacing: 0.54px; 
+}
