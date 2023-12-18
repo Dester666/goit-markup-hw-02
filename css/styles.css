@@ -9,7 +9,7 @@
 }
 
 .body {
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color:#FFFFFF;
 }
@@ -65,8 +65,12 @@ letter-spacing: 0.32px;
  color: #404bbf;
 }
 
+.section{
+background-color: #2E2F42;
+}
+
 .section-header {
-    color: #F99F;
+    color: #ffffff;
 text-align: center;
 font-size: 56px;
 font-weight: 700;
@@ -75,12 +79,20 @@ letter-spacing: 1.12px;
 }
 
 .button {
-color: #F99F;
+    font-family: "Roboto", sans-serif;
+color: #ffffff;
+background-color: #4D5AE5 ;
 font-family: Roboto;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.64px; 
+}
+
+.button:hover,
+.button:focus {
+    color: #404BBF;
+    cursor: pointer;
 }
 
 .section1-list-header {
