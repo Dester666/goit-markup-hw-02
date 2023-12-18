@@ -79,10 +79,9 @@ letter-spacing: 1.12px;
 }
 
 .button {
-    font-family: "Roboto", sans-serif;
 color: #ffffff;
 background-color: #4D5AE5 ;
-font-family: Roboto;
+font-family: "Roboto", sans-serif;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
@@ -91,7 +90,7 @@ letter-spacing: 0.64px;
 
 .button:hover,
 .button:focus {
-    color: #404BBF;
+    background-color: #404BBF;
     cursor: pointer;
 }
 
