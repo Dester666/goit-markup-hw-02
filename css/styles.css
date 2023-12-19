@@ -136,7 +136,11 @@ line-height: 1.5;
 letter-spacing: 0.32px; 
 }
 
-.section2-header {
+.section-two {
+    background-color: #F4F4FD;
+}
+
+.section-two-header {
     color: #2E2F42;
 font-size: 36px;
 font-weight: 700;
@@ -145,7 +149,11 @@ letter-spacing: 0.72px;
 text-transform: capitalize; 
 }
 
-.section2-menu-header {
+.section-two-menu {
+    background-color: #FFFFFF;
+}
+
+.section-two-menu-header {
     color: #2E2F42;
 font-size: 20px;
 font-weight: 500;
@@ -153,7 +161,7 @@ line-height: 1.2;
 letter-spacing: 0.4px; 
 }
 
-.section2-menu-paragraph {
+.section-two-menu-paragraph {
     color: #434455;
 font-size: 16px;
 font-weight: 400;
